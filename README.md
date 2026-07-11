@@ -433,28 +433,6 @@ Personal website with projects and blog.
 
 <br/>
 
-<div align="center">
-
-> ### _"First, solve the problem. Then, write the code."_
-> — **John Johnson**
-
-<br/>
-
-> ### _"Code is like humor. When you have to explain it, it's bad."_
-> — **Cory House**
-
-<br/>
-
-> ### _"The best error message is the one that never shows up."_
-> — **Thomas Fuchs**
-
-<br/>
-
-> ### _"Talk is cheap. Show me the code."_
-> — **Linus Torvalds**
-
-</div>
-
 <br/>
 
 <!-- Animated Separator -->
