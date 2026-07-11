@@ -6,10 +6,10 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--              🌊 ANIMATED HEADER WAVE                   -->
+<!--              🌊 ANIMATED HEADER BANNER                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a1b4b,30:4c1d95,50:7c3aed,70:2563eb,100:06b6d4&height=220&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a1b4b,30:4c1d95,50:7c3aed,70:2563eb,100:06b6d4&height=250&section=header&text=Abhijeet%20Ghosh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descColor=06B6D4&descAlignY=55" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--              ⚡ HERO SECTION                           -->
@@ -17,35 +17,51 @@
 
 <div align="center">
 
-<!-- Glowing Neon Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=%E2%9A%A1+ABHIJEET+GHOSH+%E2%9A%A1" alt="Name" />
+<!-- Animated Wave Greeting -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hey there, I'm <b>Abhijeet</b>!
+</h1>
+
+<!-- Stylish Tagline -->
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+  A passionate developer who turns caffeine into code & dreams into deployments
+</h3>
 
 <br/>
 
 <!-- Animated Typing Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+Enthusiast+%7C+LLM+Explorer;🌍+Open+Source+Contributor;🧩+Problem+Solver+%7C+Bug+Hunter;🎯+Future+Software+Engineer;💡+Building+the+Future+with+Code;☕+Coffee+Powered+Night+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=750&height=50&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Building+at+Scale;%F0%9F%A4%96+AI+Enthusiast+%7C+LLM+%26+RAG+Explorer;%F0%9F%8C%8D+Open+Source+Contributor+%7C+Community+First;%F0%9F%A7%A9+Problem+Solver+%7C+Bug+Hunter+%7C+Clean+Coder;%F0%9F%8E%AF+Future+Software+Engineer+%40+Big+Tech;%F0%9F%92%A1+Building+the+Future%2C+One+Commit+at+a+Time;%E2%98%95+Night+Coder+%7C+Coffee+Powered+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Premium Social Badges -->
+<!-- Quick Glance Stats Row -->
+<img src="https://img.shields.io/github/followers/code-with-abhi-i5?style=for-the-badge&color=7C3AED&labelColor=0d1117&label=Followers&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/code-with-abhi-i5?style=for-the-badge&color=06B6D4&labelColor=0d1117&label=Stars&affiliations=OWNER&logo=github" alt="Stars" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=code-with-abhi-i5&style=for-the-badge&color=4c1d95&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- Premium Social Badges with Gradient Style -->
 <a href="https://linkedin.com/in/abhijeet-ghosh-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" height="32" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ghoshabhijit1295@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+  <img src="https://img.shields.io/badge/-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail" height="32" alt="Gmail" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/code-with-abhi-i5">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&label=GitHub" height="32" alt="GitHub" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=code-with-abhi-i5&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- Animated Rainbow Separator -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
 
