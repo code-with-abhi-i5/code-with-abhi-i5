@@ -301,10 +301,6 @@ My long-term goal is to contribute to impactful open-source projects, build AI-p
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-abhi-i5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&layout=donut-vertical&langs_count=10" width="38%" alt="Top Languages" />
-
-<br/><br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-abhi-i5&bg_color=0d1117&color=7C3AED&line=06B6D4&point=7C3AED&area_color=1a1b4b&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
