@@ -493,7 +493,7 @@ Personal website with projects and blog.
 <br/>
 
 <!-- Made with love -->
-<img src="https://img.shields.io/badge/Made_with-❤️_&_☕-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Made with Love" />
+<img src="https://img.shields.io/badge/Made_by-Abhijeet_Ghosh_❤️-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Made by Abhijeet Ghosh" />
 <img src="https://img.shields.io/badge/Powered_by-Curiosity_&_Code-06B6D4?style=for-the-badge&labelColor=0d1117" alt="Powered by" />
 
 <br/><br/>
