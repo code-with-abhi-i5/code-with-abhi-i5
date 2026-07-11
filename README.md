@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail" height="32" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/code-with-abhi-i5">
-  <img src="https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&label=GitHub" height="32" alt="GitHub" />
+<a href="https://www.abhijeetweb.in/">
+  <img src="https://img.shields.io/badge/-%237C3AED.svg?style=for-the-badge&logo=googlechrome&logoColor=white&label=Portfolio" height="32" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -409,11 +409,11 @@ For collaborations, opportunities, and inquiries.
 <td align="center" width="25%">
 
 ### 🌐 Portfolio
-<a href="https://github.com/code-with-abhi-i5">
+<a href="https://www.abhijeetweb.in/">
   <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-**Coming Soon**
+**abhijeetweb.in**
 
 Personal website with projects and blog.
 
@@ -438,10 +438,6 @@ Personal website with projects and blog.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              💡 DEVELOPER WISDOM                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+DEVELOPER+WISDOM" alt="Quotes" />
