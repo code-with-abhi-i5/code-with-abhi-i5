@@ -77,64 +77,61 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### ⚡ Who Am I?
-
-```yaml
-🧑 name: Abhijeet Ghosh
-📍 location: India 🇮🇳
-🎓 role: Full Stack Developer & AI Enthusiast
-🏗️ status: Building, Learning, Shipping
-🧠 mindset: "Code is poetry, bugs are plot twists."
-☕ fuel: Coffee × Curiosity × Determination
-🌙 mode: Night Coder 🦉
+### 🚀 `system.info()`
+```json
+{
+  "name": "Abhijeet Ghosh",
+  "location": "India 🇮🇳",
+  "role": "Full Stack Developer & AI Enthusiast",
+  "status": "Building, Learning, Shipping 🚢",
+  "mindset": "Code is poetry, bugs are plot twists.",
+  "fuel": "Coffee × Curiosity × Determination ☕",
+  "mode": "Night Coder 🦉"
+}
 ```
 
-### 🚀 My Journey
+### 🧠 `core.modules.load()`
 
 I started my coding journey with curiosity and a dream — to build software that makes a difference. From writing my first `Hello World` in C++ to deploying full-stack applications, every line of code has been a step toward something bigger.
 
 I believe in **learning by building**. I don't just study frameworks — I ship products. I don't just read documentation — I push commits. Every day, I'm leveling up, exploring new technologies, and pushing the boundaries of what I can create.
 
-### 🎯 My Vision
-
+### 🎯 `vision.execute()`
 > _"I want to be the developer who builds tools that other developers love to use."_
 
 My long-term goal is to contribute to impactful open-source projects, build AI-powered products, and eventually work at a top tech company where I can solve problems at scale.
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### 💡 Developer Philosophy
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-- 🧹 **Clean Code** — I write code that humans can read, not just machines
-- 🔄 **Continuous Improvement** — Every PR makes me better than yesterday
-- 🏗️ **Build First, Perfect Later** — Ship MVPs, iterate fast, learn from users
-- 🤝 **Open Source Mindset** — Share knowledge, grow together
-- 🧩 **Problem Solver** — I don't Google errors, I understand them
-- 📐 **Product Thinking** — Code is a tool, the product is the goal
+<br/><br/>
 
-### 🧠 What Drives Me
+### ⚡ `developer.philosophy`
+<br/>
 
-```
-🔥 Passion for technology
-🌱 Love for continuous learning
-💪 Discipline over motivation
-🎯 Focus on impact over vanity metrics
-🤖 Fascination with AI & automation
-🌍 Dream to contribute to the developer community
-```
+<img src="https://img.shields.io/badge/🧹_Clean_Code-Human_Readable-%2310B981?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🔄_Iteration-1%25_Better_Daily-%233B82F6?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🏗️_Execution-Ship_Iterate_Learn-%238B5CF6?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🧩_Problem_Solving-Understand_Then_Fix-%23F59E0B?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/📐_Product_Mindset-User_First-%23EC4899?style=for-the-badge" />
 
-### 📌 Current Focus
+<br/><br/>
+### 📌 `current_processes.run()`
 
-- 🔭 Building **Full-Stack Web Applications**
+- 🔭 Architecting **Full-Stack Web Apps**
 - 🤖 Exploring **Generative AI & LLMs**
-- 🐳 Learning **DevOps & Cloud Infrastructure**
-- 🏆 Contributing to **Open Source Projects**
-- 📚 Mastering **System Design & DSA**
+- 🐳 Mastering **DevOps & Cloud**
+- 🏆 Contributing to **Open Source**
 
 </td>
 </tr>
